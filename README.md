@@ -22,7 +22,8 @@ Password, Interests).
 * Send friend requests.
 * View friends
 * View online friends
-* Points to keep in mind while creating database
+
+Points to keep in mind while creating database
 * User can have multiple posts
 * Each post can have more than one comments
 * User can comment on a post more than once
