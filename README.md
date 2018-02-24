@@ -33,17 +33,17 @@ post/comment
 
 # Part-2 : Writing Up Queries 
 
-I. View users’ all posts and display the number of likes and number of comments to that
+1. View users’ all posts and display the number of likes and number of comments to that
 post.
-II. Display the comments posted by the user.
-III. Display the online friends of a particular user.
-IV. Display the Group name, number of members of that Group and admin of that
+2. Display the comments posted by the user.
+3. Display the online friends of a particular user.
+4. Display the Group name, number of members of that Group and admin of that
 Group.
-V. Display the Members of the particular Group.
-VI. Display post which don’t have any like.
-VII. Display post which don’t have any comment.
-VIII. Display post which are liked by user's friend.
-IX. Display Comments of a particular user which are liked by user’s friends.
-X. Display Posts of a particular user which are liked by user’s friends.
-XI. Display Posts to particular group and also display the user’s name who posted it.
-XII. Display posts of a group that is not liked by anyone. 
+5. Display the Members of the particular Group.
+6. Display post which don’t have any like.
+7. Display post which don’t have any comment.
+8. Display post which are liked by user's friend.
+9. Display Comments of a particular user which are liked by user’s friends.
+10. Display Posts of a particular user which are liked by user’s friends.
+11. Display Posts to particular group and also display the user’s name who posted it.
+12. Display posts of a group that is not liked by anyone. 
